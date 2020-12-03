@@ -1,0 +1,52 @@
+{
+  "uid" : "80950482b2067a0a",
+  "name" : "test_skip",
+  "fullName" : "test_allure#test_skip",
+  "historyId" : "bf3f7fa9061787a5323a5b436c629eb5",
+  "time" : {
+    "start" : 1606189429212,
+    "stop" : 1606189429213,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason",
+  "statusTrace" : "('D:\\\\python\\\\pytest测试框架\\\\test_allure.py', 15, 'Skipped: for a reason')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "host",
+    "value" : "USER-8VMLUTRGV1"
+  }, {
+    "name" : "thread",
+    "value" : "15128-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "80950482b2067a0a.json",
+  "parameterValues" : [ ]
+}

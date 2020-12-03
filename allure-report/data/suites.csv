@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"skipped","Tue Nov 24 11:43:49 GMT+08:00 2020","Tue Nov 24 11:43:49 GMT+08:00 2020","1","","test_allure","","","","test_skip",""
+"broken","Tue Nov 24 11:43:49 GMT+08:00 2020","Tue Nov 24 11:43:49 GMT+08:00 2020","0","","test_allure","","","","test_broken",""
+"passed","Tue Nov 24 11:43:49 GMT+08:00 2020","Tue Nov 24 11:43:49 GMT+08:00 2020","2","","test_allure","","","","test_success",""
+"failed","Tue Nov 24 11:43:49 GMT+08:00 2020","Tue Nov 24 11:43:49 GMT+08:00 2020","1","","test_allure","","","","test_failure",""
